@@ -113,7 +113,7 @@ Na execução piloto utilizando o modelo `gemini-3.8-flash` sobre o módulo `cod
 
 **Luiz Henrique**
 
-Estudante de Bacharelado em Sistemas de Informação — CEFET-MG (Campus Varginha)
+Estudante de Bacharelado em Sistemas de Informação — UFCI-MG (Campus Varginha)
 
 ```
 
